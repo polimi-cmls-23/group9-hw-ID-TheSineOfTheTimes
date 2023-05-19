@@ -1,4 +1,4 @@
-# CMLS_HW3_PRIVATA
+# FeelInk
 
 # Requirements
 * An Arduino or an ESP32 board (we used an Arduino Uno and an ESP32-Cam during development) or any board, really
