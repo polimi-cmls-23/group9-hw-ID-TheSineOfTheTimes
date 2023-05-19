@@ -1,4 +1,5 @@
 # FeelInk
+## An interactive audiovisual experience
 
 # Requirements
 * An Arduino or an ESP32 board (we used an Arduino Uno and an ESP32-Cam during development) or any board, really
@@ -32,3 +33,6 @@ Note that a correct configuration of the Arduino IDE is required in order to use
 3) Open the main Processing file, be sure the audio input buffer as "CABLE Output" (if you're using VB Audio Cable this is automatic) and then run the code.
 4) Press 's' (with the Processing sketch focused) when you want to use the sensor to read a color.
 Enjoy!
+
+# Video presentation
+COMING SOON
