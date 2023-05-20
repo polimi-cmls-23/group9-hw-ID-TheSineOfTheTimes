@@ -1,5 +1,6 @@
 # FeelInk
 ## An interactive audiovisual experience
+The idea of the project is to create an audiovisual experience in which the user gets in touch with emotions. We looked for studies that associated colors with moods, and through the use of an RGB sensor we are able to capture the data that represents a color. So we have created soundscapes that can evoke emotions such as: happiness, sadness, relaxation, fear, love and related animation. The user detects a color with the sensor then associated audio and video will start.
 
 # Requirements
 * An Arduino or an ESP32 board (we used an Arduino Uno and an ESP32-Cam during development) or any board, really
