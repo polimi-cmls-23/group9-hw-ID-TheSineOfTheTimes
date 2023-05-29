@@ -36,7 +36,12 @@ Note that a correct configuration of the Arduino IDE is required in order to use
 Enjoy!
 
 # GUI
+What follows is a brief overview of the GUI.
+
+This is the view of the first tab, where the the user can change the distortion parameters for each frequency band.
 ![alt text](./Images/GUI_1.png)
+
+This is the view of the second tab, where the user can change the eq parameters applied to the final sound
 ![alt text](./Images/GUI_2.png)
 
 # Video presentation
