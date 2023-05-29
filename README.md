@@ -35,5 +35,9 @@ Note that a correct configuration of the Arduino IDE is required in order to use
 4) Press 's' (with the Processing sketch focused) when you want to use the sensor to read a color.
 Enjoy!
 
+# GUI
+![alt text](./Images/GUI_1.png)
+![alt text](./Images/GUI_2.png)
+
 # Video presentation
 COMING SOON
