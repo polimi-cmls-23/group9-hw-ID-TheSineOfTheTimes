@@ -28,21 +28,11 @@ These are all downloadable directly from inside Processing (Sketch>Import Librar
 Note that a correct configuration of the Arduino IDE is required in order to use an ESP32 board (we followed [this guide](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-mac-and-linux-instructions/)).
 
 # User Guide (audio-visual side only)
-
 1) Set your usual speaker device as the audio output.
 2) Open the SuperCollider file and follows the guidelines in the comment section at the beginning of the file. Make sure to set as output device "CABLE Input"!
 3) Open the main Processing file, be sure the audio input buffer as "CABLE Output" (if you're using VB Audio Cable this is automatic) and then run the code.
 4) Press 's' (with the Processing sketch focused) when you want to use the sensor to read a color.
 Enjoy!
-
-# GUI
-What follows is a brief overview of the GUI.
-
-This is the view of the first tab, where the the user can change the distortion parameters for each frequency band.
-![alt text](./Images/GUI_1.png)
-
-This is the view of the second tab, where the user can change the eq parameters applied to the final sound
-![alt text](./Images/GUI_2.png)
 
 # Video presentation
 COMING SOON
