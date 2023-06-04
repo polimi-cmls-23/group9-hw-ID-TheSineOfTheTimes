@@ -2,6 +2,12 @@
 ## An interactive audiovisual experience
 The idea of the project is to create an audiovisual experience in which the user gets in touch with emotions. We looked for studies that associated colors with moods, and through the use of an RGB sensor we are able to capture the data that represents a color. So we have created soundscapes that can evoke emotions such as: happiness, sadness, relaxation, fear, love and related animation. The user detects a color with the sensor then associated audio and video will start.
 
+# Video demo
+
+<a href="https://www.youtube.com/watch?v=3jmlnm2XBRw" target="_blank"><img src="https://img.youtube.com/vi/3jmlnm2XBRw/maxresdefault.jpg" 
+alt="Feelink video demo" width="720" height="440" border="10" /></a>
+
+
 # Requirements
 * An Arduino or an ESP32 board (we used an Arduino Uno and an ESP32-Cam during development) or any board, really
 * TCS34725 RGB Color Sensor
@@ -33,7 +39,3 @@ Note that a correct configuration of the Arduino IDE is required in order to use
 3) Open the main Processing file, be sure the audio input buffer as "CABLE Output" (if you're using VB Audio Cable this is automatic) and then run the code.
 4) Press 's' (with the Processing sketch focused) when you want to use the sensor to read a color.
 Enjoy!
-
-# Video presentation
-<a href="https://www.youtube.com/watch?v=3jmlnm2XBRw" target="_blank"><img src="https://img.youtube.com/vi/3jmlnm2XBRw/maxresdefault.jpg" 
-alt="Feelink video demo" width="720" height="440" border="10" /></a>
