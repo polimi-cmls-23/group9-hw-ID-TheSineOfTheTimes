@@ -1,6 +1,5 @@
 #include <Wire.h>
 #include "Arduino.h"
-#include <Adafruit_Sensor.h>
 #include "Adafruit_TCS34725.h"
 
 /*
@@ -27,7 +26,7 @@ TwoWire I2CSensors = TwoWire(0);
 byte gammatable[256];
 
 /* Initialise with specific int time and gain values */
-Adafruit_TCS34725 tcs = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_50MS, TCS34725_GAIN_4X);
+Adafruit_TCS34725 tcs = Adafruit_TCS34725(TCS34725_INTEGRATIONTIME_50MS, TCS34725_GAIN_60X);
 
 void setup(void) {
   Serial.begin(115200);
