@@ -18,9 +18,11 @@ Server.default.reboot;
 (
 // Loading external sounds
 ~natural = Array.new;
-~folder = PathName.new("./Natural Sounds/Sounds");
-
-
+~currentWorkDirectoryy = thisProcess.nowExecutingPath.dirname;
+~currentWorkDirectoryy[~currentWorkDirectoryy.size-1].postln;
+~folder = PathName.new(~currentWorkDirectoryy++"/Natural Sounds/Sounds");
+~folder.postln;
+~folder.entries.postln;
 ~folder.entries.do({
 	arg path;
 	~natural = ~natural.add(Buffer.read(s,path.fullPath));
