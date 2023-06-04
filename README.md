@@ -3,6 +3,7 @@
 The idea of the project is to create an audiovisual experience in which the user gets in touch with emotions. We looked for studies that associated colors with moods, and through the use of an RGB sensor we are able to capture the data that represents a color. So we have created soundscapes that can evoke emotions such as: happiness, sadness, relaxation, fear, love and related animation. The user detects a color with the sensor then associated audio and video will start.
 
 # Video demo
+Click on the image or [this text!](https://www.youtube.com/watch?v=3jmlnm2XBRw) (they go directly to YouTube)
 
 <a href="https://www.youtube.com/watch?v=3jmlnm2XBRw" target="_blank"><img src="http://img.youtube.com/vi/3jmlnm2XBRw/0.jpg" 
 alt="Feelink video demo" width="720" height="440" border="10" /></a>
