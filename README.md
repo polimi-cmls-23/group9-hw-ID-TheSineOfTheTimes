@@ -35,4 +35,5 @@ Note that a correct configuration of the Arduino IDE is required in order to use
 Enjoy!
 
 # Video presentation
-COMING SOON
+<a href="https://www.youtube.com/watch?v=3jmlnm2XBRw" target="_blank"><img src="https://img.youtube.com/vi/3jmlnm2XBRw/maxresdefault.jpg" 
+alt="Feelink video demo" width="720" height="440" border="10" /></a>
