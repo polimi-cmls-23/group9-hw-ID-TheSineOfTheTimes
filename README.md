@@ -4,7 +4,7 @@ The idea of the project is to create an audiovisual experience in which the user
 
 # Video demo
 
-<a href="https://www.youtube.com/watch?v=3jmlnm2XBRw" target="_blank"><img src="https://img.youtube.com/vi/3jmlnm2XBRw/maxresdefault.jpg" 
+<a href="https://www.youtube.com/watch?v=3jmlnm2XBRw" target="_blank"><img src="http://img.youtube.com/vi/3jmlnm2XBRw/0.jpg" 
 alt="Feelink video demo" width="720" height="440" border="10" /></a>
 
 
