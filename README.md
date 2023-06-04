@@ -5,9 +5,9 @@ The idea of the project is to create an audiovisual experience in which the user
 # Requirements
 * An Arduino or an ESP32 board (we used an Arduino Uno and an ESP32-Cam during development) or any board, really
 * TCS34725 RGB Color Sensor
-* A button
 * Processing **4**. This is pretty important as we had issues with out-of-the-box Processing 3.x.x, even with the correct libraries installed
 * **A virtual audio cable (in particular, we're using https://vb-audio.com/Cable/)**
+* (Optional) A button - only if the sensor pins are soldered. This will be used to turn the sensor LED on and off at will. If the sensor pins are not soldered then there is no way to control the LED that we know of
 
 For the ESP32-Cam code (Arduino IDE is used as a reference):
 * Adafruit BusIO by Adafruit
